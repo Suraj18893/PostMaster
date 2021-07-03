@@ -13,7 +13,7 @@ Postman is a popular application programming interface that makes it easy for de
 To deploy this website run
 
 ```bash
-  https://suraj18893.github.io/PostMaster/
+  https://postmaster18839.netlify.app/
 ```
 
   
