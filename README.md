@@ -10,9 +10,9 @@ Postman is a popular application programming interface that makes it easy for de
   
 ## Deployment
 
-To deploy this website run
+To deploy this website click in the below link
 
-[deploylink](https://postmaster18839.netlify.app/)
+[https://postmaster18839.netlify.app/](https://postmaster18839.netlify.app/)
 
   
 ## Authors
