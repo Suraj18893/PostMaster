@@ -6,7 +6,8 @@ Postman is a popular application programming interface that makes it easy for de
 
 ## The website looks like the following:
 
-![Screenshot (73)](https://user-images.githubusercontent.com/84933503/124353678-89478b00-dc25-11eb-8cc4-72f0058b2db2.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/84933503/124373690-1d5f3400-dcb2-11eb-8bc1-58d5653cb024.png)
+
   
 ## Deployment
 
