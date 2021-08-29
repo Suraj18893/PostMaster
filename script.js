@@ -1,6 +1,6 @@
 console.log(`js project`)
 
-// 1. Utility function to get DOM element from string//
+// 1. Utility function to get DOM element from string
 function getElementFromString(string) {
     let div = document.createElement('div');
     div.innerHTML = string;
