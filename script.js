@@ -12,7 +12,7 @@ let addedparamsCount = 0;
 let ParamBox = document.getElementById('parametersBox');
 ParamBox.style.display = 'none';
 
-// clicks on custprams/json//
+// clicks on custprams/json
 
 let paramsRadio = document.getElementById('paramsRadio');
 paramsRadio.addEventListener('click', () => {
